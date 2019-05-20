@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:VinokurYurii/workshop-backend-app.git",
+    "project_destination_path": "workshop-backend-app",
+    "application_name": "workshop",
+    "project_technology": "rubyonrails",
+    "database_type": "postgresql"
+  }
+}
